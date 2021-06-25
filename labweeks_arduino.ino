@@ -1,7 +1,11 @@
 /* FORCE SENSOR & LED STRIP CONTROL
+ *  
  * Inspired by two tutorials:
- * LED strip tutorial –> https://www.youtube.com/watch?v=EvRxQbhDxCo&t=11s
- * Force sensor tutorial -> https://www.youtube.com/watch?v=JZ44h-jy0p4&t=94s
+ * LED Strip –> https://www.youtube.com/watch?v=EvRxQbhDxCo&t=11s
+ * Force Sensor -> https://www.youtube.com/watch?v=JZ44h-jy0p4&t=94s
+ * 
+ * GitHub Repo:
+ * https://github.com/adamschwarcz/hci-labweeks-arduino
  */
 
 #include <Adafruit_NeoPixel.h>
